@@ -4,7 +4,6 @@ I'm a **Data Engineer at Entrata** based in Lehi, UT. I build pipelines, BI tool
 
 - 🛠️  **Stack:** Python · SQL · Postgres · Redshift · Snowflake · Domo · FastAPI · React · Docker
 - 🤖  **Currently exploring:** LLM-powered semantic layers, agentic BI workflows, and quant trading on prediction markets
-- 📫  **Reach me:** [LinkedIn](https://www.linkedin.com/in/shepherd-tyler/)
 
 ---
 
