@@ -29,10 +29,3 @@ Natural-language to SQL to chart, in one chat interface. Connects to **17+ data 
 #### [`cfb-data`](https://github.com/TylerShep/cfb-data) — College Football ETL Pipeline
 Modular, extensible, tested ETL pipeline for the CollegeFootballData.com REST API into PostgreSQL. Built as a reference architecture for clean Python ETL patterns.
 > `Python` · `PostgreSQL` · `REST APIs`
-
----
-
-### 📊 GitHub
-
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerShep&show_icons=true&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerShep&layout=compact&hide_border=true)
